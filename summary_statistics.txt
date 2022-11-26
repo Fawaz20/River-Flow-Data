@@ -1,0 +1,10 @@
+Summary statistics of the streams' flow rates, in m3/s: 
+With an upper flow rate of 0.5 m3/s and a lower flow rate of 0.1 m3/s, there are 479 streams in England and Wales, suitable for analysis. 
+count    479.000000
+mean       0.266303
+std        0.112936
+min        0.101000
+25%        0.167500
+50%        0.250000
+75%        0.360000
+max        0.497000
